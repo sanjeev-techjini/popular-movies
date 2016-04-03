@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <array name="display_type">
+        <item>By Popularity</item>
+        <item>By Most Rated</item>
+    </array>
+    <array name="view_type">
+        <item>Grid View</item>
+        <item>List View</item>
+    </array>
+    <string name="rating">Rating: %s/10</string>
+    <string name="screen_title">Movies on the Go</string>
+    <string name="release_date">Release Date: %s</string>
+    <string name="synopsis">Synopsis:\n%s</string>
+</resources>
